@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ArcBlock</string>
+
+    <string name="load_timeout">网络开小差了，请稍后重试</string>
+</resources>
